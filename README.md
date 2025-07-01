@@ -1,4 +1,4 @@
-This is a simple Java BookStore application developed as a demo project.  
+This is a simple Java BookStore application.  
 It demonstrates basic Java programming concepts, including:
 - Object-Oriented Programming (OOP)
 - Command-line interface (CLI) interaction
