@@ -18,4 +18,4 @@ This project was built as part of my learning journey in Java development and de
 It is part of my portfolio for applying as a Java Intern Developer.
 
 Author
-AsliddinxonKomilov
+Asliddinxon Komilov
